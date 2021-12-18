@@ -1,0 +1,42 @@
+main{
+	padding: 0px 25%;
+}
+.nav{
+	background-color: pink;
+	word-spacing: 20px;
+	padding: 20px;
+}
+.center{
+	text-align: center;
+}
+.date{
+	padding: 20px 580px 20px 0px;
+	color: blue;
+}
+h3{
+	font-size: x-large;
+}
+.pic{
+	height: 500px;
+	width: 900px;
+	padding: 20px 0px;	
+}
+.article-block{
+	
+}
+h1{
+	font-size: xx-large;
+}
+a{
+	text-decoration: none;
+}
+.about-article{
+	padding: 10px;
+}
+p{
+	font-size: 20px;
+}
+.nav1{
+    margin-top: 20px;
+	background-color: blue;
+}
